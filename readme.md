@@ -4,14 +4,14 @@
 
 | Information       | Details             |
 | ----------------- | ------------------- |
-| **Name**          | `[Om Sunil shahane]`       |
-| **Roll No.**      | `[AD2154]`   |
-| **ZPRN**          | `[125UAD1093]`       |
-| **Subject**       | `[Object Oriented Programming ]`    |
-| **Class**         | `[SY B.Tech AI&DS]` |
-| **Division**      | `[A]`        |
-| **Academic Year** | `[2026–27]`         |
-| **College**       | `[Zeal College of Engineering pune.]`    |
+| **Name**          | `Om Sunil shahane`       |
+| **Roll No.**      | `AD2154`   |
+| **ZPRN**          | `125UAD1093`       |
+| **Subject**       | `Object Oriented Programming `    |
+| **Class**         | `SY B.Tech AI&DS` |
+| **Division**      | `A`        |
+| **Academic Year** | `2026–27`         |
+| **College**       | `Zeal College of Engineering pune.`    |
 
 ---
 
