@@ -261,7 +261,7 @@ https://github.com/Om-shahane/Real_Life-Application-Code
 
 ## 📄 Declaration
 
-This repository has been created for academic purposes as part of the practical work for the subject **`[Subject Name]`**.
+This repository has been created for academic purposes as part of the practical work for the subject **`[Oop's in Cpp]`**.
 
 All programs are implemented for learning and demonstrating Object-Oriented Programming concepts using C++.
 
